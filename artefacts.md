@@ -2,7 +2,7 @@
 
 ## Artifact Title 
 
-![screenshot](images/archive-composing digital media.jpg)
+![screenshot](https://raw.githubusercontent.com/sgsinclair/digitalhumanities/master/Teichmann.jpg)
 
 * Artifact Type: (article, syllabus, tool, etc.)
 * Source URL: 
